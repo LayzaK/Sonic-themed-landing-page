@@ -36,10 +36,6 @@ sonic-landing-page/
 2. Open the `index.html` file in any web browser.
 
 ---
-
-## 🖼️ Screenshots
-
-![Descrição da Imagem](C:\Users\kermi\OneDrive\Documents\projetosdev\Sonic-themed-landing-page\sonic landing page.png)
 ---
 
 ## 📚 Learnings from the Project
@@ -66,7 +62,7 @@ sonic-landing-page/
 ## 🙌 Acknowledgments
 
 - Inspired by Sonic the Hedgehog, SEGA’s beloved character.
-- **Image Source**: [PNGWing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dsonic&psig=AOvVaw0dr0t35khmNaBtefaHLPKu&ust=1736616408830000&source=images&cd=vfe&opi=89978449&ved=0CBQQjhxqFwoTCODb67LW64oDFQAAAAAdAAAAABAE)
+- [![Sonic Logo](https://upload.wikimedia.org/wikipedia/en/e/e2/Sonic_the_Hedgehog_logo.png)](https://en.wikipedia.org/wiki/Sonic_the_Hedgehog)
 
 ---
 
